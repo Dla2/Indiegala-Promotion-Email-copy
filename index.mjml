@@ -1,0 +1,195 @@
+<mjml>
+  <mj-head>
+    <mj-title>Indiegala Promotional Email Copy</mj-title>
+  </mj-head>
+  <mj-body width="620px" background-color="#e7e7e7">
+    <!--view in browser section-->
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text padding="0" align="center">
+          <mj-raw>
+            <p style="margin: 0; padding: 0;"><a href="#" style="margin: 0; padding: 0;">View in Browser</a></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Header Section-->
+    <mj-section padding="0">
+      <mj-column width="310px" padding="0">
+        <mj-image align="left" href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/498c31d7411b02d0dc5cf8ef64cef34627f1647b" padding="0" title="Homepage Header" width="174px" src="https://www.indiegalacdn.com/store-img_game/games/og_image/NEWSLETTER/indielogo_b_small_newsletter2.png" alt="" />
+      </mj-column>
+      <mj-column width="310px" padding="0">
+        <mj-text align="right" line-height="140%" padding="5px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0;"><span style="margin: 0; padding: 0; font-size: 12px; color: #7e8c8d; line-height: 16.8px;">Exclusive deals, freebies, giveaways & challenges</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Hero Section-->
+    <mj-section padding="0">
+      <mj-column padding="2px 0 0px">
+        <mj-image padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/lets-go-bundle-news.jpg" alt="Let's Go Bundle | 8 Steam Games | 91% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <!--Intro Text-->
+    <mj-section padding="0">
+      <mj-column padding="10px">
+        <mj-text padding="0" font-size="18px" line-height="25.2px" align="justify">
+          New month, new bundle, new games...let's goooooooo! Grab the newest selection of indie Steam games and discover new possibilities.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image padding="0" src="https://www.indiegalacdn.com/home_slider/2k-sale-slider.jpg?v=2.450302243140876914" alt="2K Sale, up to 92% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <!--2 column games banner-->
+    <mj-section padding="3px 0 0 0">
+      <mj-column width="310px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/36bd28acdf1f8c756dab0c017dcb1d65e65892e2" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/NBA-2K23.jpg" alt="NBA 2K23" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">70% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+      <mj-column width="310px" padding-left="2px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/de9bd9054e2efb5891c966ea026fa21c6df1c9cc" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Tiny-Tina_s-Wonderlands.jpg" alt="Tiny Tina's Wonderlands" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">55% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="5px 0 0">
+      <mj-column padding="0">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/0d212e3ffb758392338ccd415d5b582dbdb22232" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/through-the-mirror-freebie-news.jpg" alt="Through the Mirror FREEbie" />
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="2.25px 0 0">
+      <mj-column padding="0">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/d04a85e537614622bb70a687daceea5a2a570dba" padding="0" src="https://www.indiegalacdn.com/home_slider/konami-sale-slider.jpg?v=2.450302243140876914" alt="Konami Sale, up to 92% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <!--2 column games banner-->
+    <mj-section padding="3px 0 0 0">
+      <mj-column width="310px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/88129a7f9b299de1381aea9178aed063087a80bc" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/BEAT-ARENA.jpg" alt="BEAT ARENA" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">42% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+      <mj-column width="310px" padding-left="2px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/7e65d2d50b4f375689c84c4c7cdeafb4d96657f0" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Contra-Anniversary-Collection.jpg" alt="Contra Anniversary Collection" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">85% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--2 column games banner-->
+    <mj-section padding="3px 0 0 0">
+      <mj-column width="310px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/9077ce6ad6fc872e45738c812cd838f4be716f95" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/GetsuFumaDen-Undying-Moon.jpg" alt="BEAT ARENA" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">42% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+      <mj-column width="310px" padding-left="2px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/b94c808fd789d711eb05fa6f2b3a47b2a96f089a" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Silent-Hill-Homecoming.jpg" alt="Silent Hill Homecoming" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">92% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="5px 0 0">
+      <mj-column padding="0">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/758a8a3436b0de5578565ad1817e5c6f8a371ec4" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/wo-long.jpg" alt="Wo Long: Fallen Dynasty" />
+      </mj-column>
+    </mj-section>
+
+    <!--2 column games banner-->
+    <mj-section padding="3px 0 0 0">
+      <mj-column width="310px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/428ddf0d1248078357c09411f081d980751336a8" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Aces-Adventures.jpg" alt="Aces & Adventures" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">60% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+      <mj-column width="310px" padding-left="2px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/2632c7313d7885f062f0f591979f583406fa5e9c" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Voltaire-The-Vegan-Vampire.jpg" alt="Voltaire: The Vegan Vampire" />
+        <mj-text padding="4px 0 0px">
+          <mj-raw>
+            <p style="margin: 0; padding: 0; text-align: right;"><span style=" padding: 1px 4px; width: 67px; background-color: #e03e2d; color: white; font-size: 14px; height: 16px;">30% OFF</span></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="5px 0 0">
+      <mj-column padding="0">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/95a33a412cf0284a4d432e7a0dab075a9c1d6dbe" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/Dying-Light-2.jpg" alt="Dying Light 2" />
+      </mj-column>
+    </mj-section>
+
+    <!--2 column games banner-->
+    <mj-section padding="3px 0 0 0">
+      <mj-column width="310px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/595fe2d3c0452b0b23bad5c9bc13ea2df98b5ee0" padding="0" src="https://www.indiegalacdn.com/newsletter/2023/MAR/20230303/article.jpg" alt="Redfall & Vampires Galore In Cool Vampire TV Shows" />
+      </mj-column>
+      <mj-column width="310px" padding-left="2px">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/2632c7313d7885f062f0f591979f583406fa5e9c" padding="0" src="https://www.indiegalacdn.com/store-img_game/games/og_image/NEWSLETTER/20210121/gameplay-news.jpg" alt="Voltaire: The Vegan Vampire" />
+      </mj-column>
+    </mj-section>
+
+    <!--Game Banner-->
+    <mj-section padding="3px 0 0">
+      <mj-column padding="0">
+        <mj-image href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/3b7ba9d97b72822954274d160c46a18e6654c6dc" padding="0" src="https://i.imgur.com/gTMVgoz.png" alt="New Discord Server" />
+      </mj-column>
+    </mj-section>
+
+    <!--footer section-->
+    <mj-section padding="5px 0 0">
+      <mj-column padding="0">
+        <mj-social padding="0 0 0 16px" align="left">
+          <mj-social-element padding="5px" src="https://news2.indiegala.com/frontend/assets/cache/ext-email-template-builder/static/media/color-facebook-128.png" href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/ddaf27158b1f854fea10733bb323e0b60af0ed7f" alt="Faacebook"></mj-social-element>
+          <mj-social-element padding="5px" src="https://news2.indiegala.com/frontend/assets/cache/ext-email-template-builder/static/media/color-twitter-128.png" href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/f61b3c76452350a1982b2d6644b1d099312eb79a" alt="Twitter"></mj-social-element>
+        </mj-social>
+        <mj-text padding="10px" font-size="12px" align="center">
+          <mj-raw>
+            <p style="padding: 0; margin: 0;">Copyright © 2023 Indiegala s.r.l., All rights reserved.</p>
+            <p style="padding: 0; margin: 0;">Indiegala s.r.l.<br>Via Servigliano 26C<br>Roma Roma 00138<br>Italy<br>https://www.indiegala.com,<br>support@indiegala.com</p>
+            <p style="padding: 0; margin: 0;">You can <a href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/ed56108729fad63dacac83340224997df96660e0" style="color: #ffffff;">update your preferences</a> or <a href="https://news2.indiegala.com/index.php/campaigns/pe3512scn70b6/track-url/ob751lf6mo44a/77da371e9c383edbd2293e910fb60eb207925dd8" style="color: #ffffff;">unsubscribe from this list</a></p>
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
